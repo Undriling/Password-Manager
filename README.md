@@ -11,4 +11,4 @@ $ Key Features of the Password Manager:----
 
 ->Easy Retrieval and Decryption:- The password manager allows users to view their saved credentials by decrypting the data with the stored key, making it convenient to access passwords when needed.
 
-->User Authentication:- Optionally, we can implement user authentication to ensure that only authorized users can access the stored credentials. In my code my authorized Username is "Manash" and Password is "Undriling".
+->User Authentication:- Optionally, we can implement user authentication to ensure that only authorized users can access the stored credentials. In my code my authorized Username is "Manash01" and Password is "Undriling01".
